@@ -44,4 +44,10 @@
 - **Months 1–2**: Foundations + Core Concepts  
 - **Months 3–4**: Intermediate Skills  
 - **Months 5–6**: Advanced Mastery  
-- **Beyond 6 months**: Expert Projects + Open Source Contributions  
+- **Beyond 6 months**: Expert Projects + Open Source Contributions
+
+---
+
+## 🔗 Resources Links
+- **SimplifyCPP**: https://simplifycpp.org/
+- 
